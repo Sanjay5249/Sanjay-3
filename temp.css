@@ -1,0 +1,53 @@
+body{
+   width:100vw;
+   height:100vh;
+   background-image: url('sa2.jpg');
+   background-size: cover;
+}
+.s1{
+    top:150px;
+    left:14px;
+               position: relative;
+    }
+            .s2 {
+     max-width: 400px;
+          margin: 200px auto;
+           background-color:turquoise;  
+                padding: 20px;
+                border: 2px solid #ccc;
+                border-radius: 10px;
+            }
+            .input-group {
+                margin-bottom: 10px;      
+            }
+            .input-group label {
+                display: block;
+                margin-bottom: 15px;     
+            }
+            .input-group input[type="number"] {
+                width: 100%;
+                padding: 6px;
+                border-radius: 50px;
+                border: 1px solid #ccc;
+            }
+            .input-group select {
+                width: 100%;
+                padding: 8px;
+                border-radius: 50px;
+                border: 1px solid #ccc;     
+            }
+            .s4 {
+                display: block;
+                width: 100%;
+                padding: 10px;
+                margin-top: 20px;   
+                background-color: rgb(255, 0, 85);
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+            .s3 {
+                margin-top: 20px;
+                font-weight: bold;
+            }
+    
